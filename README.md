@@ -17,7 +17,7 @@ test ディレクトリ配下に JUnitのテストケース兼サンプルがあ
 ## 参考文献
 
 * 『つくって学ぶプログラミング言語　Ruby によるScheme 処理系の実装』,渡辺昌寛,達人出版会
-(2015年5月8日v1.0.1版)
-  [http://tatsu-zine.com/books/scheme-in-ruby](http://tatsu-zine.com/books/scheme-in-ruby)
-  [https://github.com/ichusrlocalbin/scheme_in_ruby](https://github.com/ichusrlocalbin/scheme_in_ruby)
+(2015年5月8日v1.0.1版)  
+  [http://tatsu-zine.com/books/scheme-in-ruby](http://tatsu-zine.com/books/scheme-in-ruby)  
+  [https://github.com/ichusrlocalbin/scheme\_in\_ruby](https://github.com/ichusrlocalbin/scheme_in_ruby)
   
